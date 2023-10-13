@@ -25,3 +25,19 @@ body {
     )
     rgb(var(--background-start-rgb));
 }
+
+#article1 {
+  color:aquamarine;
+  text-align: center;
+  
+}
+
+#appHeader {
+  text-align: center;
+}
+
+.buttonTest {
+  color: blue;
+  margin: auto;
+  margin-left: 25px;
+}
